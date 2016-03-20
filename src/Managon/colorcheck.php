@@ -35,7 +35,7 @@ public function onCommand(CommandSender $sender, Command $command, $label, array
         $sender->sendMessage("§b==========================");
         break;
         case 3:
-        $sender->sendMessage("§b=======COLOR PAGE2========\n(セクションは自分で変換)");
+        $sender->sendMessage("§b=======COLOR PAGE3========\n(セクションは自分で変換)");
         $sender->sendMessage("§aGreen:      セクションa");
         $sender->sendMessage("§bAqua:       セクションb");
         $sender->sendMessage("§cRed:        セクションc");
