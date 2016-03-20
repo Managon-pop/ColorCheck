@@ -1,0 +1,8 @@
+main: Managon\colorcheck
+name: ColorChecker
+author: Managon
+api: 1.14.0
+version: 1.0.0
+commands:
+  color:
+    discription: "Return that § The color"
