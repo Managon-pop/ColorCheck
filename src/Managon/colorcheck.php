@@ -10,7 +10,7 @@ use pocketmine\command\CommandSender;
 
 class colorcheck extends PluginBase{
 
-public function onEnable(){ $this->getLogger()->info("Loaded By Managon");}
+public function onEnable(){ $this->getLogger()->info("Loaded! By Managon");}
 
 
 public function onCommand(CommandSender $sender, Command $command, $label, array $args){
